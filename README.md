@@ -10,7 +10,7 @@ This project was done as a part of my bachelor's thesis project:
 SEDLÁČEK, Šimon. *Personal Voice Activity Detection.* Brno, 2021. Bachelor’s thesis. Brno University of Technology, Faculty of Information Technology. Supervisor Ing. Ján Švec
 
 #### Paper reference
-```
+```bibtex
 @inproceedings{personalVAD,
     author={Shaojin Ding and Quan Wang and Shuo-Yiin Chang and Li Wan and Ignacio {Lopez Moreno}},
     title={Personal VAD: Speaker-Conditioned Voice Activity Detection},
